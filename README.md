@@ -28,7 +28,11 @@ git branch divide
 ```
 ### Team members including scrum master 
 
-1. 2 members will work on subtract branch to implement view and javascript function. Similarly, other 4 members in groups of 2 will work on other branches : multiply and divide in groups of 2 respectively.
+1. 2 members will work on subtract branch to implement view and javascript function. 
+2. 2 members will work on multiply branch to implement view and javascript function. 
+3. 2 members will work on divide branch to implement view and javascript function. 
+4. Once a feature branch is completed by 2 members, they will create a pull request to make sure someone from the team reviews their code and merges this into the develop branch.
+
 
 
 
