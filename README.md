@@ -16,7 +16,9 @@ To create this basic calculator, we will be following this workflow:-
 2. Add all group mates to the organization
 3. Fork the current repo and add this to your organization so that all members use this as a starter template
 4. Currently this repo has a master (trunk) branch. Create the branches required for usual workflow - Test, Development, Feature 1 (Subtract), Feature 2 (Multiply) and Feature 3 (Divide).
-..* Hint: Use these commands
+
+Hint: Use + icon on github or Use these commands in command line
+
 ```
 git branch test
 git checkout test
