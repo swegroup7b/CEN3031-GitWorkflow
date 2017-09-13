@@ -7,7 +7,7 @@ To create this basic calculator, we will be following this workflow:-
 
 ![Image](https://github.com/kapooramanpreet/CEN3031-GitWorkflow/blob/master/Workflow.png)
 
-**Each group member must commit at least once before the end of this session**
+**Note : The goal of this session is to adopt yourself to the workflow rather than focus on programming. Each group member must commit at least once before the end of this session**
 
 ## Steps:-
 
@@ -31,4 +31,4 @@ git branch divide
 1. 2 members will work on subtract branch to implement view and javascript function. Similarly, other 4 members in groups of 2 will work on other branches : multiply and divide in groups of 2 respectively.
 
 
-**Note : The goal of this session is to adopt yourself to the workflow rather than focus on programming**
+
