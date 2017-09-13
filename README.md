@@ -7,4 +7,4 @@ To create this basic calculator, we will be following this workflow:-
 
 ![Image](https://github.com/kapooramanpreet/CEN3031-GitWorkflow/blob/master/Workflow.png)
 
-** Note : The goal of this session is to adopt yourself to the workflow rather than focus on programming **
+**Note : The goal of this session is to adopt yourself to the workflow rather than focus on programming**
